@@ -4,7 +4,7 @@
   <a href="https://vermillion-granita-636f7c.netlify.app/">Demo Link</a> 
 </p>
 
-![screenshot](https://www.hizliresim.com/fi9g2zn)
+![screenshot](https://i.hizliresim.com/fi9g2zn.png)
 
 ## How To Use
 
