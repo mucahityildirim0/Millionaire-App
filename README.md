@@ -1,7 +1,7 @@
 
-# Millioner-App-Clone
+# Millionaire-App-Clone
 
-This is a Millioner-App-Clone. Click demo to try it by yourself!
+This is a Millionaire-App-Clone. Click demo to try it by yourself!
 
 
 ## Topics
